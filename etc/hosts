@@ -1,31 +1,6 @@
 127.0.0.1	localhost
 127.0.1.1	server
 
-
-
-
-
-
-
-
-127.0.0.1	localhost
-127.0.0.1       local.spa.reliv.com
-127.0.0.1       local.relivint.ca
-127.0.0.1       local.fre.relivint.ca
-127.0.0.1       local.relivasiapacific.com.au
-127.0.0.1       local.reliv.co.uk
-127.0.0.1       local.reliv.de
-127.0.0.1       local.reliv.fr
-127.0.0.1       local.reliv.mx
-127.0.0.1       local.eng.reliv.mx
-127.0.0.1       local.relivasiapacific.com.ph
-127.0.0.1       local.relivasiapacific.com.my
-127.0.0.1       local.relivasiapacific.com.sg
-127.0.0.1       local.relivasiapacific.com.bn
-
-
-
-
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
 fe00::0 ip6-localnet
